@@ -1,0 +1,25 @@
+[{
+  "name": "new1",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+  "price": "23",
+  "categories": "food",
+  "qty": ""
+},
+{
+  "name": "red rice",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+  "price": "60",
+  "categories": "grocery",
+  "qty": ""
+},{
+  "name": "new",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+  "price": "20",
+  "qty": "2"
+},{
+  "name": "tomato",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+  "price": "20",
+  "qty": "2",
+  "categories": "food"
+}]
